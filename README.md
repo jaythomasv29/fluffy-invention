@@ -7,6 +7,7 @@ working with git commands
 * ```git mv <file_name> <new_path>``` (move file within repo or rename file) 
 * ```git rm <file_name>``` (remove file from being commited/tracked)
 * ```git commit -m "comment"``` (commit file to repo)
+* ```git remote add <remote_name> <url>``` (add a remote to the local reposity for future pushing upstream)
 * ```git checkout -- <file_name>``` (to discard changes in working directory)
 * ** If file is deleted **: reuse : ```git checkout -- <file_name>``` (brings back a deleted file within the repo)
 * ```git push -u <remote_name> <branch_name>``` (push repo upstream -u sets specific remote for future pushing to repo)
