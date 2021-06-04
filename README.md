@@ -9,4 +9,4 @@ working with git commands
 * git commit -m "comment" (commit file to repo)
 * git checkout -- <file_name> (to discard changes in working directory)
 * ** If file is deleted **: reuse : git checkout -- <file_name> (brings back a deleted file within the repo)
-* 
+* ```git push``` -u <remote_name> <branch_name> (push repo upstream -u sets specific remote for future pushing to repo)
