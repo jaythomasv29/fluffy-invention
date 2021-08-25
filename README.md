@@ -17,3 +17,7 @@ working with git commands
 * The naming convention generally first starts wth your initials followed by `--` and a descriptive & concise name of the branch.
 - `git branch <branch-name>`
 
+## Switch Between Branch
+- `git checkout <branch>`
+## Merging Branches
+- `git merge <branch-name>`
