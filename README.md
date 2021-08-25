@@ -14,4 +14,6 @@ working with git commands
 - ```git push -u <remote_name> <branch_name>``` (push repo upstream -u sets specific remote for future pushing to repo)
 
 ## Creating Branches
-- `git branch <branch-name>
+* The naming convention generally first starts wth your initials followed by `--` and a descriptive & concise name of the branch.
+- `git branch <branch-name>`
+
