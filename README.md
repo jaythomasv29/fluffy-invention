@@ -20,4 +20,5 @@ working with git commands
 ## Switch Between Branch
 - `git checkout <branch>`
 ## Merging Branches
+* note: it is important to be in the correct branch when merging with another branch.
 - `git merge <branch-name>`
